@@ -1,6 +1,6 @@
 # 🗂️ Bulk File Organizer
 
-## **Bulk File Organizer** is a Python command-line tool that automatically sorts files in a directory based on their file extensions. It organizes your digital chaos into clean, structured folders — with colorful terminal feedback powered by **Rich** ✨
+**Bulk File Organizer** is a Python command-line tool that automatically sorts files in a directory based on their file extensions. It organizes your digital chaos into clean, structured folders — with colorful terminal feedback powered by **Rich** ✨
 
 ---
 
