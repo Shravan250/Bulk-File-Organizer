@@ -25,7 +25,7 @@ pip install bulk-file-organizer
 Or install from source:
 
 ```bash
-git clone https://github.com/your-username/bulk-file-organizer.git
+git clone https://github.com/Shravan250/bulk-file-organizer.git
 cd bulk-file-organizer
 pip install .
 ```
@@ -116,5 +116,5 @@ This project is licensed under the **MIT License**.
 ## ⭐ Show Some Love
 
 If this tool helped you bring order to your chaos —
-please consider giving it a ⭐ on [GitHub](https://github.com/your-username/bulk-file-organizer)!
+please consider giving it a ⭐ on [GitHub](https://github.com/Shravan250/bulk-file-organizer)!
 Every star helps this project grow and makes the world a little more organized 🌍✨
